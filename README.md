@@ -10,5 +10,9 @@ public class gitclass{
 	public void gitmethod(){
 
 		sytem.debug('Print from git method');
+		sytem.debug('Print from git method');
+		sytem.debug('Print from git method');
+		
+	
 	}
 }
